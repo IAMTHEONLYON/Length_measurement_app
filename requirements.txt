@@ -5,3 +5,4 @@ torchvision
 Pillow
 numpy
 imutils
+timm
